@@ -1,0 +1,13 @@
+{
+    "name": "zhangzhenjun/demo",
+    "description": "test composer project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "张贞军",
+            "email": "zhang.zhenjun@pivosgroup.com.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
